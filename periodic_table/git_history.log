@@ -1,0 +1,65 @@
+commit bdacb1c1a0b9b91102400e3d0ca90e11f3759902
+Author: ADM1299 <alexdmay1599@gmail.com>
+Date:   Wed Oct 8 21:42:36 2025 -0400
+
+    feat: create-output-message
+
+commit ab7841d11d589fe8d8a32c4749385e06c14f7b5a
+Author: ADM1299 <alexdmay1599@gmail.com>
+Date:   Wed Oct 8 21:37:44 2025 -0400
+
+    feat: add-fallback-if-input-not-found-in-db
+
+commit e6659bc8b02110e537d5eff349345776ad6974a3
+Author: ADM1299 <alexdmay1599@gmail.com>
+Date:   Wed Oct 8 21:23:55 2025 -0400
+
+    refactor: add-comments-for-queries
+
+commit bb940d0cb62a74fee56a24cc1871e5cd94f03342
+Author: ADM1299 <alexdmay1599@gmail.com>
+Date:   Wed Oct 8 21:06:53 2025 -0400
+
+    feat: add-name-input-case
+
+commit 3193c47c2b2d3e429e9fa95d121b5e880c3e878e
+Author: ADM1299 <alexdmay1599@gmail.com>
+Date:   Wed Oct 8 20:46:41 2025 -0400
+
+    feat: add-symbol-input-case
+
+commit b0d4b8779c5d468158552d8bfdd7153ea19baf06
+Author: ADM1299 <alexdmay1599@gmail.com>
+Date:   Wed Oct 8 20:34:46 2025 -0400
+
+    test: check-query-output
+
+commit 2ca055ad82d4be418dea690dfb02923190a28729
+Author: ADM1299 <alexdmay1599@gmail.com>
+Date:   Wed Oct 8 19:48:57 2025 -0400
+
+    feat: add-atomic-number-case-in-statement
+
+commit eb9c517cfd80aaee8fc9d8cae321196fbe5cbb25
+Author: ADM1299 <alexdmay1599@gmail.com>
+Date:   Wed Oct 8 19:37:20 2025 -0400
+
+    fix: correct-variable-syntax
+
+commit 9f32f2b1b41080ebebf7327d3e9564682079176b
+Author: ADM1299 <alexdmay1599@gmail.com>
+Date:   Wed Oct 8 19:35:25 2025 -0400
+
+    feat: initialize-condition-values-to-empty
+
+commit 8d5f8ea1fd40729b55cd615df5f16c7f59219c53
+Author: ADM1299 <alexdmay1599@gmail.com>
+Date:   Wed Oct 8 18:36:43 2025 -0400
+
+    feat: check-if-user-input-exists
+
+commit 9aa4f2830809af4c6be7c9d8f747d17949dfeb7f
+Author: ADM1299 <alexdmay1599@gmail.com>
+Date:   Wed Oct 8 15:36:28 2025 -0400
+
+    Initial commit
