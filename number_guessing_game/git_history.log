@@ -1,0 +1,77 @@
+commit d6beb7efc12ab0c88fb7c8644cd58c7070c74bcc
+Author: ADM1299 <alexdmay1599@gmail.com>
+Date:   Fri Oct 10 01:57:03 2025 -0400
+
+    fix: changed-logic-for-output-message
+
+commit 96905fa3fef6381c84df9765104ecd8701a3ed68
+Author: ADM1299 <alexdmay1599@gmail.com>
+Date:   Fri Oct 10 01:48:31 2025 -0400
+
+    fix: fixed-arithmatic-comparison-syntax-&-changed-variable-placement
+
+commit 89783a9c2dd8d5be7f1d7e3acdba98d3b36f5aa1
+Author: ADM1299 <alexdmay1599@gmail.com>
+Date:   Fri Oct 10 01:16:15 2025 -0400
+
+    refactor: fix-variable-declaration-position
+
+commit a2c5fdb3a35a4b4a62435218b8e2cce19d61d92b
+Author: ADM1299 <alexdmay1599@gmail.com>
+Date:   Fri Oct 10 01:14:07 2025 -0400
+
+    fix: added-back-username-input
+
+commit 61c186ada72e6d189d40829fd017aab3f15e6fca
+Author: ADM1299 <alexdmay1599@gmail.com>
+Date:   Fri Oct 10 01:11:19 2025 -0400
+
+    refactor: change-position-of-function-and-variables-to-global-scope
+
+commit aae5e18ed165bb980f88ed0f58f8719eae77778e
+Author: ADM1299 <alexdmay1599@gmail.com>
+Date:   Fri Oct 10 01:04:50 2025 -0400
+
+    feat: added-logic-for-guess-results
+
+commit 37febf0f147de6ec4c17e9fabf5d94e14a0a2fa0
+Author: ADM1299 <alexdmay1599@gmail.com>
+Date:   Fri Oct 10 00:54:30 2025 -0400
+
+    feat: get-user-guess-&-increment-number-guesses
+
+commit 4f2b79307f98724a4e8a6a1bc591f431aa25d15a
+Author: ADM1299 <alexdmay1599@gmail.com>
+Date:   Thu Oct 9 23:06:06 2025 -0400
+
+    refactor: move-code-to-more-logical-sequence
+
+commit a4f4400cf1c9b088c0d2f85c17c659b6f722bcd5
+Author: ADM1299 <alexdmay1599@gmail.com>
+Date:   Thu Oct 9 23:04:22 2025 -0400
+
+    feat: add-function-for-game
+
+commit 03bd8fc35001cf22311618c00b09f47625765098
+Author: ADM1299 <alexdmay1599@gmail.com>
+Date:   Thu Oct 9 22:57:55 2025 -0400
+
+    feat: add-existing-username-logic
+
+commit 7a9f901b5c32df4453d414c14ba754cd9851e180
+Author: ADM1299 <alexdmay1599@gmail.com>
+Date:   Thu Oct 9 22:51:17 2025 -0400
+
+    feat: add-new-username-logic
+
+commit 171debe39334f2c09bb2c90dab9cc62f8a66598d
+Author: ADM1299 <alexdmay1599@gmail.com>
+Date:   Thu Oct 9 22:46:05 2025 -0400
+
+    feat: read-input
+
+commit ccc4e9e636a02766047790ffaaced98eba3b26f7
+Author: ADM1299 <alexdmay1599@gmail.com>
+Date:   Thu Oct 9 18:51:51 2025 -0400
+
+    Initial commit
